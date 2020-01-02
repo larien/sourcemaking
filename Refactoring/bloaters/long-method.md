@@ -6,7 +6,7 @@ Um método que contém linhas demais (começa a ser preocupante a partir de 10 l
 
 Coisas são colocadas no método, mas nada é tirado. É mais fácil colocar coisa em um método do que criar um novo, criando um código espaguete.
 
-## Tratamento
+## Soluções
 
 A regra de ouro é que se você acha que precisa explicar alguma coisa, essa coisa deve ir para um novo método, mesmo se for uma só linha. Se o método tiver um nome descritivo, ninguém vai precisar entrar no código para ver o que ele faz.
 

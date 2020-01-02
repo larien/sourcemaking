@@ -1,0 +1,1 @@
+# Obsessão por primitivas
