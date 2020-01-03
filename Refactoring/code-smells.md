@@ -10,3 +10,4 @@ São códigos, métodos e classes que aumentaram em proporções tão grandes qu
 - [Método longo](bloaters/long-method.md)
 - [Classe ou pacote grande](bloaters/large-class.md)
 - [Obsessão por primitivas](bloaters/primitive-obsession.md)
+- [Lista de parâmetros longa](bloaters/long-parameter-list.md)
