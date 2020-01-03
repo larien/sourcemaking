@@ -11,3 +11,4 @@ São códigos, métodos e classes que aumentaram em proporções tão grandes qu
 - [Classe ou pacote grande](bloaters/large-class.md)
 - [Obsessão por primitivas](bloaters/primitive-obsession.md)
 - [Lista de parâmetros longa](bloaters/long-parameter-list.md)
+- [Falta de encapsulamento de dados](bloaters/data-clumps.md)
