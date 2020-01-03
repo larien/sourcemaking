@@ -15,7 +15,7 @@ Quando uma classe ou pacote tiver muitas responsabilidade, pense em separá-la.
 
 Extrair a classe ou pacote ajuda se parte do comportamento da classe grande pode ser separado em um componente diferente.
 
-#### Extrair a Classe ou Programa
+#### Extraia a Classe ou Programa
 
 Quando uma classe faz o trabalho de duas, coisas estranhas acontecem.
 

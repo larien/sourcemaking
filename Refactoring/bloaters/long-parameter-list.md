@@ -52,6 +52,8 @@ withinPlan = plan.withinRange(daysTempRange)
 
 ### Solução 3: Passe um objeto como parâmetro
 
+#### Passe o Objeto Como Parâmetro
+
 Você pode unir os campos em um único objeto.
 
 Seu método contém parâmetros repetidos.
