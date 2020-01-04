@@ -1,0 +1,4 @@
+# Herança desnecessária
+
+```go
+```

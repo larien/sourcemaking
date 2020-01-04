@@ -19,3 +19,4 @@ Tudo isso acontece pela aplicação incorreta dos princípios da orientação a 
 
 - [Declarações switch](object-orientation-abusers/switch-statements.md)
 - [Campo temporário](object-orientation-abusers/temporary-field.md)
+- [Herança desnecessária](object-orientation-abusers/refused-bequest.md)
