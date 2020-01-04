@@ -12,3 +12,10 @@ São códigos, métodos e classes que aumentaram em proporções tão grandes qu
 - [Obsessão por primitivas](bloaters/primitive-obsession.md)
 - [Lista de parâmetros longa](bloaters/long-parameter-list.md)
 - [Falta de encapsulamento de dados](bloaters/data-clumps.md)
+
+# Aplicação incorreta da orientação a objeto
+
+Tudo isso acontece pela aplicação incorreta dos princípios da orientação a objeto.
+
+- [Declarações switch](object-orientation-abusers/switch-statements.md)
+- [Campo temporário](object-orientation-abusers/temporary-field.md)
