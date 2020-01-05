@@ -28,3 +28,4 @@ Acontece quando você precisa mudar uma coisa no seu código e tem que fazer mud
 
 - [Mudança que atinge vários lugares](change-preventers/divergent-change.md)
 - [Tiro de espingarda](change-preventers/shotgun-surgery.md)
+- [Hierarquias de herança paralelas](change-preventers/parallel-inheritance-hierarchies.md)
