@@ -64,6 +64,7 @@ import "class2"
 // somewhere in the client code
 class2.Method()
 ```
+
 #### Adicione Parâmetros
 
 Um método não tem dados o suficiente para executar certas tarefas.
