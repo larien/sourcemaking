@@ -21,3 +21,9 @@ Tudo isso acontece pela aplicação incorreta dos princípios da orientação a 
 - [Campo temporário](object-orientation-abusers/temporary-field.md)
 - [Herança desnecessária](object-orientation-abusers/refused-bequest.md)
 - [Classes alternativas com interfaces diferentes](object-orientation-abusers/alternative-classes-with-different-interfaces.md)
+
+# Manutenibilidade ruim
+
+Acontece quando você precisa mudar uma coisa no seu código e tem que fazer mudanças em outros lugares. Isso torna o desenvolvimento muito mais complicado e caro.
+
+- [Mudança que atinge vários lugares](change-preventers/divergent-change.md)

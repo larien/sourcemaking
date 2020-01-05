@@ -53,7 +53,7 @@ return vector.Stack.isEmpty()
 
 Extraia campos e métodos indesejados da superclasse, coloque em uma nova classe e ambas herdam dessa.
 
-#### Extrair Superclasse
+#### Extraia Superclasse
 
 Você tem duas classes com campos e métodos em comum.
 
