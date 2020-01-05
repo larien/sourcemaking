@@ -35,3 +35,4 @@ Acontece quando você precisa mudar uma coisa no seu código e tem que fazer mud
 É algo inútil cuja remoção torna o código mais limpo, mais eficiente e mais fácil de entender.
 
 - [Comentários](dispensables/comments.md)
+- [Código duplicado](dispensables/duplicated-code.md)

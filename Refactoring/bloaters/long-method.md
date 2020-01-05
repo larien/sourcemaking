@@ -12,8 +12,10 @@ A regra de ouro é que se você acha que precisa explicar alguma coisa, essa coi
 
 ### Solução 1: Extração do método
 
-#### Extração do Método
+#### Extraia o Método
+
 Pedaço de código que pode ser agrupado.
+
 ```go
 func printOwing(){
     printBanner();
