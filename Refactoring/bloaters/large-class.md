@@ -65,7 +65,7 @@ func (t *Telephone) TelephoneNumber() string {
 
 Extrair subclasses ajuda se parte do comportamento da classe grande for implementado de formas diferentes ou usado em casos raros.
 
-##### Extrair Subclasse
+##### Extraia a Subclasse
 
 Uma classe tem funcionalidades usadas em certos casos.
 

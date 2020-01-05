@@ -27,3 +27,4 @@ Tudo isso acontece pela aplicação incorreta dos princípios da orientação a 
 Acontece quando você precisa mudar uma coisa no seu código e tem que fazer mudanças em outros lugares. Isso torna o desenvolvimento muito mais complicado e caro.
 
 - [Mudança que atinge vários lugares](change-preventers/divergent-change.md)
+- [Tiro de espingarda](change-preventers/shotgun-surgery.md)
